@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4600953E-80AD-4C7C-9D6F-4344E5F55EE1}|tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tests/fourth.css">
+    <Files>
+      <File FileName="tests/Program.cs" Line="1" Column="1" />
+      <File FileName="tests/Startup.cs" Line="1" Column="1" />
+      <File FileName="tests/third.js" Line="1" Column="1" />
+      <File FileName="tests/fourth.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tests" expanded="True">
+            <Node name="Party" expanded="True">
+              <Node name="fourth.css" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Party PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

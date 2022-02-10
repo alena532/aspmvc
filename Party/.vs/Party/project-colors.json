@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e299a724-b518-41b8-9d62-5c4161fbcbc3": {
+      "ProjectGuid": "e299a724-b518-41b8-9d62-5c4161fbcbc3",
+      "DisplayName": "Party",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

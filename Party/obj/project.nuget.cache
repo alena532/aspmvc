@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CYrDAUdSVgWmAxYm39mdnuF7MrRx4FV+/MIgC9iMtrXTkh59xd0ht4XivwEwYs0kgSK5s5D0Z3NPTsM5yEVyw==",
+  "success": true,
+  "projectFilePath": "/Users/alenavorobej/Projects/Party/Party/Party.csproj",
+  "expectedPackageFiles": [
+    "/Users/alenavorobej/.nuget/packages/bootstrap/5.1.3/bootstrap.5.1.3.nupkg.sha512",
+    "/Users/alenavorobej/.nuget/packages/htmltags/7.0.1/htmltags.7.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlTags 7.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlTags",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

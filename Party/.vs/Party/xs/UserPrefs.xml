@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{E299A724-B518-41B8-9D62-5C4161FBCBC3}|tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/GetResponse.cs">
+    <Files>
+      <File FileName="../../../.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Models/GetResponse.cs" Line="3" Column="16" />
+      <File FileName="Models/Repository.cs" />
+      <File FileName="../../../.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.css" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Views/Home/ListResponses.cshtml" />
+      <File FileName="Views/Home/Privacy.cshtml" />
+      <File FileName="Views/Home/RsvpForm.cshtml" />
+      <File FileName="Views/Home/Thanks.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Views/Shared/Error.cshtml" />
+      <File FileName="Views/_ViewStart.cshtml" />
+      <File FileName="Views/_ViewImports.cshtml" />
+      <File FileName="Program.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Views/Home/Invitation.cshtml" />
+      <File FileName="Styles.css" />
+      <File FileName="../../../.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css" />
+      <File FileName="wwwroot/css/Formstyle.css" />
+      <File FileName="wwwroot/css/Responsesstyle.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Party" expanded="True">
+            <Node name="Party" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="GetResponse.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Party PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
